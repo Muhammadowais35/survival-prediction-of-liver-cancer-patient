@@ -1,2 +1,2 @@
 # survival-prediction-of-liver-cancer-patient
-An Explainable Machine Learning-Based Web Application for predicting one-year survival outcomes of patients with Hepatocellular Carcinoma (HCC). The system uses clinical data and machine learning algorithms, including Logistic Regression, SVM, Random Forest, and XGBoost, to predict survival probabilities. 
+An Explainable Machine Learning-Based Web Application for One-Year Survival Prediction of Liver Cancer Patients (HCC). The proposed project will use clinical data, machine learning algorithms, and SHAP explainability to estimate survival outcomes. Developed using Python and Flask for educational and research purposes.
